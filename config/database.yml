@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: kush_development
+test:
+  adapter: postgresql
+  database: kush_test
